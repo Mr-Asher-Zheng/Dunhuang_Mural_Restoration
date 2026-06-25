@@ -7,3 +7,6 @@ https://www.kaggle.com/datasets/mrzzzz22/dh-version1
 # 模型文件
 - 损坏区域检测模型：https://www.kaggle.com/models/mrzzzz22/mural-seg-model
 - 壁画修复模型：https://www.kaggle.com/models/mrzzzz22/mural-restoration-model
+
+# 引用
+SinSR:[https://github.com/wyf0912/SinSR](https://github.com/wyf0912/SinSR)
