@@ -9,4 +9,4 @@ https://www.kaggle.com/datasets/mrzzzz22/dh-version1
 - 壁画修复模型：https://www.kaggle.com/models/mrzzzz22/mural-restoration-model
 
 # 引用
-SinSR:[https://github.com/wyf0912/SinSR](https://github.com/wyf0912/SinSR)
+SinSR：[https://github.com/wyf0912/SinSR](https://github.com/wyf0912/SinSR)
